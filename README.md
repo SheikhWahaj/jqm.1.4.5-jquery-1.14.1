@@ -37,6 +37,17 @@ This repository includes the necessary modifications to allow both libraries to 
    ```bash
    git clone https://github.com/SheikhWahaj/jqm.1.4.5-jquery-1.14.1.git
 
+## 📁 Folder Structure
+<pre lang="markdown"> 
+   <code> 
+   ├── scripts/ 
+   │   ├── jquery.mobile.patched-1.4.5.min.js 
+   │   └── jquery-ui-1.14.1.min.js 
+   ├── index.html 
+   └── README.md 
+</code> </pre>
+
+
 ## ⚠️ Disclaimer
 This is an unofficial patch. Use at your own risk.
 
