@@ -35,7 +35,7 @@ This repository includes the necessary modifications to allow both libraries to 
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/jqm-jqueryui-compat.git
+   git clone https://github.com/SheikhWahaj/jqm.1.4.5-jquery-1.14.1.git
 
 ## ⚠️ Disclaimer
 This is an unofficial patch. Use at your own risk.
