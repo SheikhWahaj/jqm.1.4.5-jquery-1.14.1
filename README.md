@@ -1,4 +1,4 @@
-jQuery Mobile 1.4.5 + jQuery UI 1.14.1 Compatibility Patch
+jQuery Mobile 1.4.5 - jQuery UI 1.14.1 [Compatibility Patch]
 
 ## 📦 Overview
 
@@ -31,13 +31,24 @@ This repository includes the necessary modifications to allow both libraries to 
 
 ---
 
-## 📁 Folder Structure
-/
-├── js/
-│ ├── jquery-1.14.1.min.js
-│ ├── jquery-ui-1.14.1.custom.min.js
-│ └── jquery.mobile-1.4.5.patched.js
-├── css/
-│ ├── jquery-ui.structure.css
-│ └── jquery.mobile-1.4.5.patched.css
-└── index.html (demo)
+## 🚀 Getting Started
+
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/your-username/jqm-jqueryui-compat.git
+
+## ⚠️ Disclaimer
+This is an unofficial patch. Use at your own risk.
+
+## 📃 License
+This project follows the original MIT License from jQuery Mobile and jQuery UI. Modified files are shared under the same terms.
+
+## 🤝 Contributing
+Feel free to open issues or submit pull requests if you find compatibility bugs or have improvements.
+---
+
+Let me know if you'd like to include a working demo, screenshots, or specific fixes included in your patch.
+
+
+
+
