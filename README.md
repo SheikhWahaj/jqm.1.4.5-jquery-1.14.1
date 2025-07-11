@@ -30,3 +30,14 @@ This repository includes the necessary modifications to allow both libraries to 
 - Fixes common integration issues (e.g., event conflicts, method overrides).
 
 ---
+
+## 📁 Folder Structure
+/
+├── js/
+│ ├── jquery-1.14.1.min.js
+│ ├── jquery-ui-1.14.1.custom.min.js
+│ └── jquery.mobile-1.4.5.patched.js
+├── css/
+│ ├── jquery-ui.structure.css
+│ └── jquery.mobile-1.4.5.patched.css
+└── index.html (demo)
